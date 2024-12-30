@@ -1,5 +1,8 @@
 # Liquid Shield
 
+![image](https://github.com/user-attachments/assets/23848d56-51e3-48a6-b9f1-52a4e09b2ac5)
+
+
 **AI-Powered Liquidity Management for Solana**
 
 Welcome to **Liquid Shield**, a cutting-edge tool designed to revolutionize liquidity management in the Solana ecosystem. This project leverages advanced AI algorithms to dynamically adjust liquidity positions, mitigate risks, and maximize rewards for users interacting with decentralized finance (DeFi) platforms.
