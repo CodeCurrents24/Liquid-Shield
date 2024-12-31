@@ -41,10 +41,10 @@ Welcome to **Liquid Shield**, a cutting-edge tool designed to revolutionize liqu
 3. Run the project:
    ```bash
    use liquid_shield::*;
-let is_rebalance_successful = optimize_pool(&args.liquidity_pool, &args.market_data, &args.user_preferences);
-assert!(is_rebalance_successful.is_ok());
-Ok(())
-   python app.py
+   let is_rebalance_successful = optimize_pool(&args.liquidity_pool, &args.market_data, &args.user_preferences);
+   assert!(is_rebalance_successful.is_ok());
+   Ok(())
+    python app.py
    ```
 
 ## Contributing
