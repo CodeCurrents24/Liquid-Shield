@@ -1,7 +1,5 @@
 # Liquid Shield
-
 ![image](https://github.com/user-attachments/assets/23848d56-51e3-48a6-b9f1-52a4e09b2ac5)
-
 
 **AI-Powered Liquidity Management for Solana**
 
@@ -29,7 +27,7 @@ Welcome to **Liquid Shield**, a cutting-edge tool designed to revolutionize liqu
 - **Programming Languages:** Python, JavaScript
 - **Frontend:** React (for dashboards)
 
-  ![5](https://github.com/user-attachments/assets/69567a12-4f5b-439e-9e0a-ace2b39079b3)
+![5](https://github.com/user-attachments/assets/69567a12-4f5b-439e-9e0a-ace2b39079b3)
 
 ## Installation
 
@@ -56,12 +54,6 @@ Welcome to **Liquid Shield**, a cutting-edge tool designed to revolutionize liqu
 For an in-depth exploration of our methodologies, please refer to our white paper:
 [Liquid Shield Docs](https://liquid-shield.gitbook.io/liquid-shield-docs/)
 
-Connect with us for updates and discussions:
-
-[Twitter](https://x.com/LiquidShield_)
-[GitHub](https://github.com/LiquidShield/Liquid-Shield)
-
-
 ## Contributing
 
 We welcome contributions from the community! Feel free to fork the repository, create pull requests, or submit issues.
@@ -72,7 +64,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or feedback, please reach out to @LiquidShield_ on X
+Connect with us for updates and discussions:
+
+[Twitter](https://x.com/LiquidShield_)
+[GitHub](https://github.com/LiquidShield/Liquid-Shield)
 
 ---
 
