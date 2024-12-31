@@ -7,6 +7,8 @@
 
 Welcome to **Liquid Shield**, a cutting-edge tool designed to revolutionize liquidity management in the Solana ecosystem. This project leverages advanced AI algorithms to dynamically adjust liquidity positions, mitigate risks, and maximize rewards for users interacting with decentralized finance (DeFi) platforms.
 
+![7](https://github.com/user-attachments/assets/54733cdd-2a95-4826-9fbe-958e3e69a743)
+
 ## Key Features
 
 - **Dynamic Liquidity Optimization:** Real-time adjustments to liquidity pool positions based on market trends and activity.
@@ -26,6 +28,8 @@ Welcome to **Liquid Shield**, a cutting-edge tool designed to revolutionize liqu
 - **AI Framework:** TensorFlow/PyTorch
 - **Programming Languages:** Python, JavaScript
 - **Frontend:** React (for dashboards)
+
+  ![5](https://github.com/user-attachments/assets/69567a12-4f5b-439e-9e0a-ace2b39079b3)
 
 ## Installation
 
@@ -47,6 +51,17 @@ Welcome to **Liquid Shield**, a cutting-edge tool designed to revolutionize liqu
     python app.py
    ```
 
+## Documentation
+
+For an in-depth exploration of our methodologies, please refer to our white paper:
+[Liquid Shield Docs](https://liquid-shield.gitbook.io/liquid-shield-docs/)
+
+Connect with us for updates and discussions:
+
+[Twitter](https://x.com/LiquidShield_)
+[GitHub](https://github.com/LiquidShield/Liquid-Shield)
+
+
 ## Contributing
 
 We welcome contributions from the community! Feel free to fork the repository, create pull requests, or submit issues.
@@ -57,7 +72,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or feedback, please reach out to @LiquidShields on X
+For questions or feedback, please reach out to @LiquidShield_ on X
 
 ---
 
